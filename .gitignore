@@ -1,0 +1,13 @@
+# Source data and the assembled table — course material, and far over GitHub's size limit
+Data/
+temp_processing/
+Final_dataset_group_09.csv
+Additional_Files/T_catalog.csv
+
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+.DS_Store
